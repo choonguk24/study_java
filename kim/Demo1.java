@@ -1,3 +1,4 @@
+package kim;
 
 public class Demo1 {
     public static Thread thread1;

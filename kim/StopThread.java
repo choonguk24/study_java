@@ -1,3 +1,5 @@
+package kim;
+
 public class StopThread extends Thread {
     private int i = 0, j = 0;
   
